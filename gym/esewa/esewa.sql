@@ -55,9 +55,9 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `title`, `description`, `image`, `amount`) VALUES
-(1, 'Student', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p1.png', 100),
-(2, 'Regular', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p2.png', 150),
-(3, 'Pro', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p3.png', 200);
+(1, 'Ricek Cooker', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p1.png', 100),
+(2, 'Washing Machine', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p2.png', 150),
+(3, 'Vaccum Cleaner', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas auctor justo sed leo tempus laoreet. Donec a metus sed leo tincidunt tempus ut et augue. ', 'p3.png', 200);
 
 --
 -- Indexes for dumped tables
